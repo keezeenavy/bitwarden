@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo adduser bitwarden
 sudo passwd bitwarden
 sudo groupadd docker
